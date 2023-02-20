@@ -1,0 +1,4 @@
+flask==2.2.3
+python-dotenv
+pymongo==4.3.3
+gunicorn
