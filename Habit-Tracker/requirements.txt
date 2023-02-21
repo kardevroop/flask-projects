@@ -1,2 +1,4 @@
 flask
 python-dotenv
+pymongo==4.3.3
+gunicorn
